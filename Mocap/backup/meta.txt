@@ -1,0 +1,11 @@
+Actors	Elkiskas
+CameraUids	919e0001a36f05ce,919e0001a36f05cf,919e0001a36f05d2,919e0001a36f05d3,919e0001a36f05d4,919e0001a36f05d5,919e0001a36f2413,919e0001a36f2415
+Duration	08.400
+DurationInFrames	504
+Framerate	60/1
+Name	Elkiskas
+Processed	
+RecordedWith	Captury Live 1.0.259f 2024-03-01 16:24:49 +0100 28bcebe
+StartTimestamp	1761656352216666
+Time	2025-10-28 13:59:12
+Uid	17d8ab41128f723a
